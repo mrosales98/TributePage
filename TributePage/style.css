@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  h1 {
+    padding: 20px;
+    font-family: sans serif;
+  }
+  
+  h3 {
+    font-size: 20px;
+    background-color: #006400;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  body{
+    background-color: #f0e68c;
+    font-family: fantasy;
+    text-align: center;
+  }
+  
+  .img-container {
+    margin: auto;
+    padding: 30px;
+    background-color: #00ff7f
+  }
+  
+  .irwin-image {
+    object-fit: contain;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  .caption {
+    padding-top: 5px;
+  }
+  
+  .life {
+    padding: 30px 70px;
+    max-width: 600px;
+    margin: 10px auto;
+    text-align: left;
+  }
+  
+  .life-header {
+    font-size: 20px;
+    font-family: sans serif;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  li {
+    margin: 20px;
+  }
+  
+  .quote {
+    margin: 30px 30px 5px;
+    font-style: italic;
+  }
+  
+  .quote-author {
+    text-indent: 60px;
+  }
+  
+  a {
+    color: #99f
+  }
