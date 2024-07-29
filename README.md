@@ -13,4 +13,4 @@ This project includes a responsive webpage built using HTML and CSS. It demonstr
 - Basic CSS design
 
 ## Live Demo
-https://codepen.io/marrz84/pen/ExJdeOZ
+https://codepen.io/mrosales98/pen/ExJdeOZ
